@@ -1,0 +1,96 @@
+nav{
+	border: 1px solid;
+	padding: 10px;
+	background-color: rgb(0,0,0);
+	border-top: rgb(255,0,0);
+	position: static;
+}
+
+a{
+	padding: 20px;
+	color: rgb(255,255,255);
+}
+a:hover{
+	color: rgb(255,0,0);
+}
+
+
+body{
+	background-color:rgb(255,255,255);
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.first{
+	margin-left: 250px;
+}
+h1{
+	color: rgb(255,0,0);
+}
+.phone{
+	width: 100px;
+}
+
+.second{
+	margin-left: 350px;
+	padding: 50px;
+}
+.third{
+	width: 100px;
+	margin-left: 200px;
+	padding: 50px;
+}
+
+.fourth{
+	margin-left: 200px;
+	padding: 50px;
+}
+
+.header{
+	background-color: yellow;
+	text-align: center;
+}
+
+.left-side{
+	width: 15%;
+	float: left;
+	margin-left: 200px;
+
+}
+
+.nodot{
+	list-style-type: none;
+	padding: 0px;
+	font-size: 20px;
+}
+
+
+.right-side{
+	float: right;
+	padding-bottom: 100px;
+	margin-right: 200px;
+	padding: 20px;
+}
+
+
+.footer{
+	text-align: center;
+	clear: both;
+}
+
+.home{
+	margin-left: 200px;
+}
+li{
+	list-style-type: square;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+
+
+
+
+
+
+
